@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MKTechnified?tab=repositories](https://github.com/MKTechnified?tab=repositories)
 
-- 💬 Ask me about **android, java, php, c++, xml**
+- 💬 Ask me about **android, java, php, c++, xml, javascript, python**
 
 - ⚡ Fun fact **Nothing funny here.**
 
